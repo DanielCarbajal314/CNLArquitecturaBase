@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\Domain.TestConsole.exe.config
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\Domain.TestConsole.exe
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\Domain.TestConsole.pdb
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\obj\Debug\Domain.TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\obj\Debug\Domain.TestConsole.exe
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\obj\Debug\Domain.TestConsole.pdb
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\Domain.Contexts.dll
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\Domain.Entities.dll
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\EntityFramework.dll
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\Domain.Contexts.pdb
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\Domain.Contexts.dll.config
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\Domain.Entities.pdb
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\EntityFramework.xml
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\EntityFramework.SqlServer.xml

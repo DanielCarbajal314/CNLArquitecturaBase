@@ -1,0 +1,5 @@
+C:\Users\danie\onedrive\documentos\visual studio 2017\Projects\CNL\Domain.Entities\bin\Debug\Domain.Entities.dll
+C:\Users\danie\onedrive\documentos\visual studio 2017\Projects\CNL\Domain.Entities\bin\Debug\Domain.Entities.pdb
+C:\Users\danie\onedrive\documentos\visual studio 2017\Projects\CNL\Domain.Entities\obj\Debug\Domain.Entities.csprojResolveAssemblyReference.cache
+C:\Users\danie\onedrive\documentos\visual studio 2017\Projects\CNL\Domain.Entities\obj\Debug\Domain.Entities.dll
+C:\Users\danie\onedrive\documentos\visual studio 2017\Projects\CNL\Domain.Entities\obj\Debug\Domain.Entities.pdb

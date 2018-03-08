@@ -1,0 +1,5 @@
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Services.Implementation\bin\Debug\Services.Implementation.dll
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Services.Implementation\bin\Debug\Services.Implementation.pdb
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Services.Implementation\obj\Debug\Services.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Services.Implementation\obj\Debug\Services.Implementation.dll
+C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Services.Implementation\obj\Debug\Services.Implementation.pdb
