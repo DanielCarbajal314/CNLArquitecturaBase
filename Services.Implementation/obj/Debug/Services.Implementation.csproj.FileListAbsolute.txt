@@ -3,3 +3,23 @@ C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Services.Impl
 C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Services.Implementation\obj\Debug\Services.Implementation.csprojResolveAssemblyReference.cache
 C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Services.Implementation\obj\Debug\Services.Implementation.dll
 C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Services.Implementation\obj\Debug\Services.Implementation.pdb
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\Services.Implementation.dll.config
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\Services.Implementation.dll
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\Services.Implementation.pdb
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\AutoMapper.dll
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\Domain.Contexts.dll
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\Domain.Entities.dll
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\Services.Interfaces.dll
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\Domain.Contexts.pdb
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\Domain.Contexts.dll.config
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\Domain.Entities.pdb
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\Services.Interfaces.pdb
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\AutoMapper.xml
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\obj\Debug\Services.Implementation.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\obj\Debug\Services.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\obj\Debug\Services.Implementation.dll
+C:\Users\Daniel\Desktop\GitHub\Services.Implementation\obj\Debug\Services.Implementation.pdb

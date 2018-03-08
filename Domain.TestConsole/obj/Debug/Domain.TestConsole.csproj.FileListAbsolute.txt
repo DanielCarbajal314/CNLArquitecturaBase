@@ -13,3 +13,19 @@ C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestCo
 C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\Domain.Entities.pdb
 C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\EntityFramework.xml
 C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Domain.TestConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\bin\Debug\Domain.TestConsole.exe.config
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\bin\Debug\Domain.TestConsole.exe
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\bin\Debug\Domain.TestConsole.pdb
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\bin\Debug\Domain.Contexts.dll
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\bin\Debug\Domain.Entities.dll
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\bin\Debug\Domain.Contexts.pdb
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\bin\Debug\Domain.Contexts.dll.config
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\bin\Debug\Domain.Entities.pdb
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\obj\Debug\Domain.TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\obj\Debug\Domain.TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\obj\Debug\Domain.TestConsole.exe
+C:\Users\Daniel\Desktop\GitHub\Domain.TestConsole\obj\Debug\Domain.TestConsole.pdb

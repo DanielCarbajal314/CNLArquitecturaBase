@@ -18,6 +18,6 @@ namespace Domain.Entities.DocumentManagement
         public string Department { get; set; }
         public string District { get; set; }
         public string Province { get; set; }
-        public ICollection<Employee> Employees { get; set; }
+        public ICollection<Employee> Employees { get; set; } = new HashSet<Employee>();
     }
 }

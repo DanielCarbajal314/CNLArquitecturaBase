@@ -1,0 +1,12 @@
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.Tranformation\bin\Debug\Infraestructure.Tranformation.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.Tranformation\bin\Debug\Infraestructure.Tranformation.pdb
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.Tranformation\bin\Debug\AutoMapper.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.Tranformation\bin\Debug\Domain.Entities.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.Tranformation\bin\Debug\Services.Interfaces.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.Tranformation\bin\Debug\Domain.Entities.pdb
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.Tranformation\bin\Debug\Services.Interfaces.pdb
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.Tranformation\bin\Debug\AutoMapper.xml
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.Tranformation\obj\Debug\Infraestructure.Tranformation.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.Tranformation\obj\Debug\Infraestructure.Tranformation.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.Tranformation\obj\Debug\Infraestructure.Tranformation.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.Tranformation\obj\Debug\Infraestructure.Tranformation.pdb

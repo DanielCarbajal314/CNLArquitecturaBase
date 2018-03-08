@@ -10,3 +10,16 @@ C:\Users\danie\onedrive\documentos\visual studio 2017\Projects\CNL\Domain.Contex
 C:\Users\danie\onedrive\documentos\visual studio 2017\Projects\CNL\Domain.Contexts\obj\Debug\Domain.Contexts.csprojResolveAssemblyReference.cache
 C:\Users\danie\onedrive\documentos\visual studio 2017\Projects\CNL\Domain.Contexts\obj\Debug\Domain.Contexts.dll
 C:\Users\danie\onedrive\documentos\visual studio 2017\Projects\CNL\Domain.Contexts\obj\Debug\Domain.Contexts.pdb
+C:\Users\Daniel\Desktop\GitHub\Domain.Contexts\bin\Debug\Domain.Contexts.dll.config
+C:\Users\Daniel\Desktop\GitHub\Domain.Contexts\bin\Debug\Domain.Contexts.dll
+C:\Users\Daniel\Desktop\GitHub\Domain.Contexts\bin\Debug\Domain.Contexts.pdb
+C:\Users\Daniel\Desktop\GitHub\Domain.Contexts\bin\Debug\Domain.Entities.dll
+C:\Users\Daniel\Desktop\GitHub\Domain.Contexts\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\GitHub\Domain.Contexts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Daniel\Desktop\GitHub\Domain.Contexts\bin\Debug\Domain.Entities.pdb
+C:\Users\Daniel\Desktop\GitHub\Domain.Contexts\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\GitHub\Domain.Contexts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\Desktop\GitHub\Domain.Contexts\obj\Debug\Domain.Contexts.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\GitHub\Domain.Contexts\obj\Debug\Domain.Contexts.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\GitHub\Domain.Contexts\obj\Debug\Domain.Contexts.dll
+C:\Users\Daniel\Desktop\GitHub\Domain.Contexts\obj\Debug\Domain.Contexts.pdb

@@ -30,8 +30,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Autofac, Version=4.6.2.0, Culture=neutral, PublicKeyToken=17863af14b0044da, processorArchitecture=MSIL">
+      <HintPath>..\packages\Autofac.4.6.2\lib\net45\Autofac.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Compression.FileSystem" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -40,6 +47,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Modules\ServiceModule.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -51,10 +59,6 @@
       <Project>{b7d954e8-3ba0-4422-bde2-382fdd9b6c9a}</Project>
       <Name>Domain.Entities</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Infraestructure.Mapper\Infraestructure.Mapper.csproj">
-      <Project>{d0395ec1-6427-419f-9daa-b33e02d97e84}</Project>
-      <Name>Infraestructure.Mapper</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Services.Implementation\Services.Implementation.csproj">
       <Project>{730560d5-8e24-4298-82c0-699ac9cfa016}</Project>
       <Name>Services.Implementation</Name>
@@ -63,6 +67,9 @@
       <Project>{187b9e57-29bd-4aec-ba6f-fa580345bd69}</Project>
       <Name>Services.Interfaces</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

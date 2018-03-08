@@ -16,3 +16,25 @@ C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Infraestructu
 C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Infraestructure.DependencyInjection\bin\Debug\Services.Interfaces.pdb
 C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Infraestructure.DependencyInjection\bin\Debug\EntityFramework.xml
 C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Infraestructure.DependencyInjection\obj\Debug\Infraestructure.DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Infraestructure.DependencyInjection.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Infraestructure.DependencyInjection.pdb
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Domain.Contexts.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Domain.Entities.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Services.Implementation.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Services.Interfaces.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\EntityFramework.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\AutoMapper.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Domain.Contexts.pdb
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Domain.Contexts.dll.config
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Domain.Entities.pdb
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Services.Implementation.pdb
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Services.Implementation.dll.config
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Services.Interfaces.pdb
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\EntityFramework.xml
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\AutoMapper.xml
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\obj\Debug\Infraestructure.DependencyInjection.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\obj\Debug\Infraestructure.DependencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\obj\Debug\Infraestructure.DependencyInjection.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\obj\Debug\Infraestructure.DependencyInjection.pdb
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Autofac.dll
+C:\Users\Daniel\Desktop\GitHub\Infraestructure.DependencyInjection\bin\Debug\Autofac.xml

@@ -1,4 +1,0 @@
-C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Infraestructure.Mapper\bin\Debug\Infraestructure.Mapper.dll
-C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Infraestructure.Mapper\bin\Debug\Infraestructure.Mapper.pdb
-C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Infraestructure.Mapper\obj\Debug\Infraestructure.Mapper.dll
-C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Infraestructure.Mapper\obj\Debug\Infraestructure.Mapper.pdb

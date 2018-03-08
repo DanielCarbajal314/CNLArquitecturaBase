@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentation.CNLWepAPI", "Presentation.CNLWepAPI\Presentation.CNLWepAPI.csproj", "{692A1B37-C7C5-4FC8-A29F-1584F838049A}"
 EndProject
@@ -21,13 +21,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services.Interfaces", "Serv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services.Implementation", "Services.Implementation\Services.Implementation.csproj", "{730560D5-8E24-4298-82C0-699AC9CFA016}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure.Mapper", "Infraestructure.Mapper\Infraestructure.Mapper.csproj", "{D0395EC1-6427-419F-9DAA-B33E02D97E84}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure.DependencyInjection", "Infraestructure.DependencyInjection\Infraestructure.DependencyInjection.csproj", "{D53634BC-8009-4B07-A1C5-10A5F23C35DD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.UnitTest", "Domain.UnitTest\Domain.UnitTest.csproj", "{C959F9AB-D79F-4E45-84FE-C2365938F5F3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain.TestConsole", "Domain.TestConsole\Domain.TestConsole.csproj", "{FD786D98-37BC-4364-8C43-99517C9FE61C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure.Tranformation", "Infraestructure.Tranformation\Infraestructure.Tranformation.csproj", "{EADD8E95-AEFA-4781-81F8-40410601E948}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,10 +55,6 @@ Global
 		{730560D5-8E24-4298-82C0-699AC9CFA016}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{730560D5-8E24-4298-82C0-699AC9CFA016}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{730560D5-8E24-4298-82C0-699AC9CFA016}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D0395EC1-6427-419F-9DAA-B33E02D97E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D0395EC1-6427-419F-9DAA-B33E02D97E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D0395EC1-6427-419F-9DAA-B33E02D97E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D0395EC1-6427-419F-9DAA-B33E02D97E84}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D53634BC-8009-4B07-A1C5-10A5F23C35DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D53634BC-8009-4B07-A1C5-10A5F23C35DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D53634BC-8009-4B07-A1C5-10A5F23C35DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -71,6 +67,10 @@ Global
 		{FD786D98-37BC-4364-8C43-99517C9FE61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD786D98-37BC-4364-8C43-99517C9FE61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD786D98-37BC-4364-8C43-99517C9FE61C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EADD8E95-AEFA-4781-81F8-40410601E948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EADD8E95-AEFA-4781-81F8-40410601E948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EADD8E95-AEFA-4781-81F8-40410601E948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EADD8E95-AEFA-4781-81F8-40410601E948}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,9 +81,12 @@ Global
 		{7D5A6FF3-9B73-4844-8957-4A56D17AE193} = {CF8A94E5-8AF6-4502-A5EA-D9B73B975E75}
 		{187B9E57-29BD-4AEC-BA6F-FA580345BD69} = {C4BBA0EA-8780-4609-B0E7-3CCC197AB98F}
 		{730560D5-8E24-4298-82C0-699AC9CFA016} = {C4BBA0EA-8780-4609-B0E7-3CCC197AB98F}
-		{D0395EC1-6427-419F-9DAA-B33E02D97E84} = {34533793-DEE2-4CFD-B6E9-7EB3319C8689}
 		{D53634BC-8009-4B07-A1C5-10A5F23C35DD} = {34533793-DEE2-4CFD-B6E9-7EB3319C8689}
 		{C959F9AB-D79F-4E45-84FE-C2365938F5F3} = {CF8A94E5-8AF6-4502-A5EA-D9B73B975E75}
 		{FD786D98-37BC-4364-8C43-99517C9FE61C} = {CF8A94E5-8AF6-4502-A5EA-D9B73B975E75}
+		{EADD8E95-AEFA-4781-81F8-40410601E948} = {34533793-DEE2-4CFD-B6E9-7EB3319C8689}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {752E6256-8E89-4252-9826-802998C3A8B7}
 	EndGlobalSection
 EndGlobal

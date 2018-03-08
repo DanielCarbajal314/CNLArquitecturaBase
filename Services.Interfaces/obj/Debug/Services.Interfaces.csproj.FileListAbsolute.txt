@@ -3,3 +3,9 @@ C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Services.Inte
 C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Services.Interfaces\obj\Debug\Services.Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Services.Interfaces\obj\Debug\Services.Interfaces.dll
 C:\Users\danie\OneDrive\documentos\visual studio 2017\Projects\CNL\Services.Interfaces\obj\Debug\Services.Interfaces.pdb
+C:\Users\Daniel\Desktop\GitHub\Services.Interfaces\bin\Debug\Services.Interfaces.dll
+C:\Users\Daniel\Desktop\GitHub\Services.Interfaces\bin\Debug\Services.Interfaces.pdb
+C:\Users\Daniel\Desktop\GitHub\Services.Interfaces\obj\Debug\Services.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\GitHub\Services.Interfaces\obj\Debug\Services.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\GitHub\Services.Interfaces\obj\Debug\Services.Interfaces.dll
+C:\Users\Daniel\Desktop\GitHub\Services.Interfaces\obj\Debug\Services.Interfaces.pdb
